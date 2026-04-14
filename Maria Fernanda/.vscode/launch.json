@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/escola1/Documents/Maria Fernanda/alexandre/analise des. sistemas",
-      "program": "c:/Users/escola1/Documents/Maria Fernanda/alexandre/analise des. sistemas/build/Debug/outDebug",
+      "cwd": "c:/Users/escola1/Documents/fernanda_escola/Maria Fernanda/alexandre/analise des. sistemas",
+      "program": "c:/Users/escola1/Documents/fernanda_escola/Maria Fernanda/alexandre/analise des. sistemas/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
